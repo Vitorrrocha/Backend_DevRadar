@@ -1,2 +1,2 @@
 # Backend_DevRadar
-Backend da aplicação DevRadar utilizando Node com Express.js e MongoDB
+### DevRadar application -backend using Node with Express.js and MongoDB.
